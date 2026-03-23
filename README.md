@@ -32,19 +32,13 @@ User Query
 → LLM (Groq)
 → Response
 
----
-
 ## 📸 Demo
 
 ### Chat Assistant
-
-(Add screenshot here)
+![Chat UI](images/chat.png)
 
 ### Scenario Advisor
-
-(Add screenshot here)
-
----
+![Scenario Advisor](images/scenario.png)
 
 ## ⚙️ Tech Stack
 
